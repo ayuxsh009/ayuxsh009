@@ -26,7 +26,8 @@
 - 💻 **Full Stack Developer** & **Open Source Contributor**
 - 🧠 Passionate about **Backend Engineering**, **AI Integration**, and **System Design**
 - 🌱 Currently exploring **Spring Boot**, **Go**, and **DevOps** (CI/CD, Infrastructure Tooling)
-- 🧩 Enjoy solving **Data Structures & Algorithms** problems on competitive programming platforms
+- 🧩 Enjoy solving **Data Structures & Algorithms** problems on competitive programming platforms  
+- 💬 Got a question on **Backend**, **System Design**, or **ML**? Let’s talk tech on [X (Twitter)](https://x.com/Ayushh___Gupta) 🚀  
 - 📫 Reach me at **1raj.aayush@gmail.com**
 
 ---
