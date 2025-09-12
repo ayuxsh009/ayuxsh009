@@ -32,21 +32,6 @@
 
 ---
 
-<div align="center">
-  <span style="display:inline-block; margin: 0 8px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayuxsh009&show_icons=true&theme=dark&hide_border=true" height="165" />
-  </span>
-  <span style="display:inline-block; margin: 0 8px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayuxsh009&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook&card_width=400&theme=dark&hide_border=true" height="165" />
-  </span>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ayuxsh009&theme=dark&hide_border=true" width="400"/>
-</div>
-
----
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h4 align="center">Languages & Frameworks</h4>
