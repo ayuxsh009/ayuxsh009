@@ -68,5 +68,6 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sandyp025.sandyp025&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayuxsh009.ayuxsh009&left_color=black&right_color=blue&left_text=Profile%20Views" />
 </div>
+
