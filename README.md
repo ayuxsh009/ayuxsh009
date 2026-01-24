@@ -51,6 +51,19 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayuxsh009&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuxsh009&theme=nightowl&hide_border=false" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuxsh009&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"/>
+</p>
+
+---
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ayuxsh009.ayuxsh009&left_color=black&right_color=blue&left_text=Profile%20Views" />
 </div>
