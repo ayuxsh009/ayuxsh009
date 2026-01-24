@@ -54,12 +54,20 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayuxsh009&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayuxsh009&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuxsh009&theme=nightowl&hide_border=false" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuxsh009&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuxsh009&theme=nightowl&hide_border=false&layout=compact" height="160"/>
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuxsh009&theme=react-dark&hide_border=true" />
 </p>
 
 ---
