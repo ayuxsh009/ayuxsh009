@@ -64,14 +64,10 @@
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuxsh009&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ayuxsh009.ayuxsh009&left_color=black&right_color=blue&left_text=Profile%20Views" />
 </div>
+
+---
+
+
