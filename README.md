@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <a href="https://x.com/Ayushh___Gupta">
+    <a href="https://x.com/Ayush_raj009">
       <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/ayush-raj009/">
@@ -52,6 +52,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
+<!-- Main GitHub Stats -->
 <p align="center">
   <img
     src="https://github-readme-stats-umber-two-74.vercel.app/api?username=ayuxsh009&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=false"
@@ -59,6 +60,16 @@
   />
 </p>
 
+<!-- GitHub Streak (centered) -->
+<p align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=ayuxsh009&theme=dark&hide_border=false"
+    height="170"
+    alt="GitHub streak"
+  />
+</p>
+
+<!-- Top Languages -->
 <p align="center">
   <img
     src="https://github-readme-stats-umber-two-74.vercel.app/api/top-langs/?username=ayuxsh009&layout=compact&theme=nightowl&hide_border=false"
