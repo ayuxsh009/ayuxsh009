@@ -3,31 +3,30 @@
 <div align="center">
   <p>
     <a href="https://x.com/Ayushh___Gupta">
-      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/ayush-raj009/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://ayush009-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="mailto:1raj.aayush@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
 
 ---
 
-<img align="right" height="160" src="https://github.com/ayuxsh009.png" alt="Ayush Raj Avatar" />
+<img align="right" height="160" src="https://github.com/ayuxsh009.png" />
 
 ### 💡 About Me
 - 🎓 CSE Student at **IIITDM Jabalpur**
 - 💻 **Full Stack Developer** & **Open Source Contributor**
-- 🧠 Passionate about **Backend Engineering**, **AI Integration**, and **System Design**
-- 🌱 Currently exploring **Spring Boot**, **Go**, and **DevOps** (CI/CD, Infrastructure Tooling)
-- 🧩 Enjoy solving **Data Structures & Algorithms** problems on competitive programming platforms  
-- 💬 Got a question on **Backend**, **System Design**, or **ML**? Let’s talk tech on [X (Twitter)](https://x.com/Ayushh___Gupta) 🚀  
+- 🧠 Interested in **Backend Engineering**, **AI**, and **System Design**
+- 🌱 Learning **Spring Boot**, **Go**, and **DevOps**
+- 🧩 Love solving **DSA** problems
 - 📫 Reach me at **1raj.aayush@gmail.com**
 
 ---
@@ -54,21 +53,21 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayuxsh009&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuxsh009&theme=nightowl&hide_border=false" height="165"/>
+  <img
+    src="https://github-readme-stats-umber-two-74.vercel.app/api?username=ayuxsh009&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=false"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuxsh009&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"/>
+  <img
+    src="https://github-readme-stats-umber-two-74.vercel.app/api/top-langs/?username=ayuxsh009&layout=compact&theme=nightowl&hide_border=false"
+    height="160"
+  />
 </p>
-
 
 ---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ayuxsh009.ayuxsh009&left_color=black&right_color=blue&left_text=Profile%20Views" />
 </div>
-
----
-
-
