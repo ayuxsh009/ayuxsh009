@@ -69,6 +69,13 @@
   />
 </p>
 
+<!-- GitHub Contributor Stats -->
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=ayuxsh009&limit=5&theme=algolia"
+    alt="Repo-wise contribution stats"
+  />
+</p>
 <!-- Top Languages -->
 <p align="center">
   <img
@@ -78,6 +85,7 @@
 </p>
 
 ---
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ayuxsh009.ayuxsh009&left_color=black&right_color=blue&left_text=Profile%20Views" />
