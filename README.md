@@ -69,13 +69,7 @@
   />
 </p>
 
-<!-- GitHub Contributor Stats -->
-<p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=ayuxsh009&limit=5&theme=algolia"
-    alt="Repo-wise contribution stats"
-  />
-</p>
+
 <!-- Top Languages -->
 <p align="center">
   <img
