@@ -72,7 +72,7 @@
 <!-- GitHub Contributor Stats -->
 <p align="center"
 
-![Ayush's contribution stats](https://github-contributor-stats.vercel.app/api?username=ayuxsh009&hide_contributor_rank=false&limit=5&order_by=contributions&theme=dark)
+![Ayush's contribution stats](https://github-contributor-stats.vercel.app/api?username=ayuxsh009&hide_contributor_rank=false&limit=8&order_by=contributions&theme=dark)
 
 
 ---
