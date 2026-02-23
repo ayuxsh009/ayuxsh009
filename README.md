@@ -69,14 +69,11 @@
   />
 </p>
 
+<!-- GitHub Contributor Stats -->
+<p align="center"
 
-<!-- Top Languages -->
-<p align="center">
-  <img
-    src="https://github-readme-stats-umber-two-74.vercel.app/api/top-langs/?username=ayuxsh009&layout=compact&theme=nightowl&hide_border=false"
-    height="160"
-  />
-</p>
+![Ayush's contribution stats](https://github-contributor-stats.vercel.app/api?username=ayuxsh009&hide_contributor_rank=false&limit=5&order_by=contributions&theme=dark)
+
 
 ---
 
